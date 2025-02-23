@@ -1,0 +1,17 @@
+{
+  "name": "express-with-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "graphql": "^16.10.0",
+    "graphql-tag": "^2.12.6",
+    "graphql-yoga": "^5.12.0"
+  }
+}
